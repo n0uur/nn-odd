@@ -1,6 +1,6 @@
 {
   "name": "@n0uur/is-odd-ai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A neural network that determines if a number is odd number or not",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
